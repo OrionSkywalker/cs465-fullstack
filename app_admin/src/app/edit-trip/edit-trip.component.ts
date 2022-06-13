@@ -51,7 +51,7 @@ export class EditTripComponent implements OnInit {
       .then(data => {
           console.log(data);
           // Don't use editForm.setValue() as it will throw console error
-          this.editForm.patchValue(data);  //doing this, only data no [0], gives me the tripCode and nothing else on the edit form. 
+          this.editForm.patchValue(data[0]);  //doing this, only data no [0], gives me the tripCode and nothing else on the edit form. 
                                            //data[0] always pulls up Gale Reef with all of the data populated on the edit form. 
         })
   }
