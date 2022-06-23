@@ -29,19 +29,19 @@
     <img src="https://snhu.geigershops.com/store/20161222562/assets/items/largeimages/pi_DZ231C011_l.JPG" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">cs465-fullstack</h3>
 
   <p align="center">
-    project_description
+    CS-465 Full Stack Development with MEAN
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/OrionSkywalker/cs465-fullstack"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/OrionSkywalker/cs465-fullstack">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/OrionSkywalker/cs465-fullstack/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/OrionSkywalker/cs465-fullstack/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,7 +80,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project-title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -120,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/OrionSkywalker/cs465-fullstack.git
    ```
 3. Install NPM packages
    ```sh
@@ -154,7 +154,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/OrionSkywalker/cs465-fullstack/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -192,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/OrionSkywalker/cs465-fullstack](https://github.com/OrionSkywalker/cs465-fullstack)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -214,11 +214,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [contributors-shield]: https://img.shields.io/github/contributors/orionskywalker/cs465-fullstack?style=flat-square
 [contributors-url]: https://github.com/OrionSkywalker/cs465-fullstack/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/orionskywalker/cs465-fullstack?style=flat-square
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-url]: https://github.com/OrionSkywalker/cs465-fullstack/network/members
 [stars-shield]: https://img.shields.io/github/stars/orionskywalker/cs465-fullstack?style=social
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/OrionSkywalker/cs465-fullstack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/orionskywalker/cs465-fullstack
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/OrionSkywalker/cs465-fullstack/issues
 [license-shield]: https://img.shields.io/github/license/orionskywalker/cs465-fullstack
 [license-url]: https://github.com/OrionSkywalker/cs465-fullstack/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
