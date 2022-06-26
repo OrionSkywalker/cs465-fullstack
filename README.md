@@ -104,12 +104,11 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is a work in progress. Reviewing the project so installation is a breeze.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of the steps to take to get started.
 * npm
   ```sh
   npm install npm@latest -g
@@ -117,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Install the necessary global features.
 2. Clone the repo
    ```sh
    git clone https://github.com/OrionSkywalker/cs465-fullstack.git
@@ -126,9 +125,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Run the app from the travlr folder
+   ```sh
+   npm start
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -189,8 +188,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
 Project Link: [https://github.com/OrionSkywalker/cs465-fullstack](https://github.com/OrionSkywalker/cs465-fullstack)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -200,9 +197,6 @@ Project Link: [https://github.com/OrionSkywalker/cs465-fullstack](https://github
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
