@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Travlr][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project-title`, `project_description`
 
@@ -221,4 +221,4 @@ Project Link: [https://github.com/OrionSkywalker/cs465-fullstack](https://github
 [issues-url]: https://github.com/OrionSkywalker/cs465-fullstack/issues
 [license-shield]: https://img.shields.io/github/license/orionskywalker/cs465-fullstack
 [license-url]: https://github.com/OrionSkywalker/cs465-fullstack/blob/main/LICENSE
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/forRepo.png
