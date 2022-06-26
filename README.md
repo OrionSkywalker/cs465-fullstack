@@ -80,7 +80,7 @@
 
 [![Travlr][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project-title`, `project_description`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -88,14 +88,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
+
 * [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [MongoDB](https://github.com/mongodb)
+* [Node](https://github.com/nodejs/node)
+* [Express](https://github.com/expressjs/express)
+* [hbs](https://github.com/pillarjs/hbs)
+* [Passport](https://github.com/passport)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -149,10 +149,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Update planned for 2022
+
+    - [ ] Remove Deprecated Modules
 
 See the [open issues](https://github.com/OrionSkywalker/cs465-fullstack/issues) for a full list of proposed features (and known issues).
 
@@ -221,4 +220,4 @@ Project Link: [https://github.com/OrionSkywalker/cs465-fullstack](https://github
 [issues-url]: https://github.com/OrionSkywalker/cs465-fullstack/issues
 [license-shield]: https://img.shields.io/github/license/orionskywalker/cs465-fullstack
 [license-url]: https://github.com/OrionSkywalker/cs465-fullstack/blob/main/LICENSE
-[product-screenshot]: images/forRepo.png
+[product-screenshot]: https://github.com/OrionSkywalker/cs465-fullstack/blob/main/public/images/forRepo.png
