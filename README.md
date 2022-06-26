@@ -200,6 +200,11 @@ Project Link: [https://github.com/OrionSkywalker/cs465-fullstack](https://github
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Architecture, Functionality, Testing and Reflection
+#### The Angular project structure is different from the Express HTML customer facing pages in that Angular allows movement of data processing and logic to the browser. Some advantages of the SPA functionality are that there is a reduced load on the server and the use of typescript that can be converted to json. Disadvantages of the SPA are that it isn’t crawlable for indexing on search engines. Added functionality provided by a SPA compared to a simple web application interaction includes two-way data binding. The process of testing to make sure that the SPA is working with the API to GET and PUT data in the database that I used was to try and evaluate the http requests with postman, use developer tools in the browser, and console output to monitor with custom output. An error that I ran into while checking the http requests was an improperly formatted request in postman, this provided an error in postman and allowed me to see the problem. Mostly, I tested with the localhost route and observed feedback from console output with developer tools. MongoDB was used because of the use of JSON everywhere and the availabilithy of Mongoose to manage relationships to data.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
